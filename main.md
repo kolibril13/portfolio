@@ -1,13 +1,14 @@
 # Portfolio
 
 Welcome to my portfolio! 👋    
-Here I will present my recent projects.  
-Further, you will find my recent content curation work for Jupyter, MyST, Manim, and Napari.
+Here, I will showcase my recent projects and content curation work for Jupyter, MyST, Manim, and Napari.
+
+
 
 
 ## Content curation in Jupyter
 
-In June 2023 I've curated a 3 days Python training course.  
+In June 2023, I curated a 3-day Python training course. 
 A writing sample can be found in the next chapter called
 [Writing Sample](./writing-sample)  
 
@@ -21,7 +22,9 @@ A writing sample can be found in the next chapter called
 
 Additionally, the full [course material](https://github.com/mito-ds/training-materials) is also available online.
 
- Also, I've written this [ipyreact tutorial](https://github.com/widgetti/ipyreact/blob/master/examples/full_tutorial.ipynb).
+I've also authored this [ipyreact tutorial](https://github.com/widgetti/ipyreact/blob/master/examples/full_tutorial.ipynb).
+
+
 
 
 
