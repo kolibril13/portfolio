@@ -1,7 +1,8 @@
 # Portfolio
 
-Welcome to my portfolio.
-Here you'll find my recent project highlights, as well as some of the content curation in context of Jupyter, MyST and Manim and Napari.
+Welcome to my portfolio! 👋    
+Here I will present my recent project highlights and you will find my recent content curation work for Jupyter, MyST, Manim, and Napari.
+
 
 ## Content curation in Jupyter
 
