@@ -7,11 +7,13 @@
 
 ## content curation in Jupyter
 
-You can find my writing sample at
+
+[Writing sample](https://kolibril13.github.io/portfolio/writing-sample). 
 
 
-and here'r a conversation about 
-https://github.com/widgetti/ipyreact/pull/11
+Full Mito [course material](https://github.com/mito-ds/training-materials).
+
+ ipyreact [tutorial](https://github.com/widgetti/ipyreact/blob/master/examples/full_tutorial.ipynb)   
 
 ## Content curation in Manim
 
