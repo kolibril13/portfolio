@@ -1,19 +1,22 @@
 # Portfolio
 
-
+Welcome to my portfolio.
+Here you'll find my recent project highlights, as well as some of the content curation in context of Jupyter, MyST and Manim.
 
 ## Content curation in Jupyter
 
 I've curated a 3 days python training course, a writing sample can be found in the next chapter called
 [Writing Sample](./writing-sample)  
 
-:::{tip} Screenshot preview from wirting sample.
-![Alt text](thumb_writing.png)
+::::{tip} Screenshot from the writing sample.
+
+:::{figure} thumb_writing.png
+
 :::
+::::
 
 
-
-Additionally, the full [course material](https://github.com/mito-ds/training-materials) is also available.
+Additionally, the full [course material](https://github.com/mito-ds/training-materials) is also available online.
 
  Also, I've written this ipyreact [tutorial](https://github.com/widgetti/ipyreact/blob/master/examples/full_tutorial.ipynb).
 
@@ -21,69 +24,101 @@ Additionally, the full [course material](https://github.com/mito-ds/training-mat
 
 ## My Projects
 
+Here are 4 tweets from my recent project highlights.
+
+
 :::{figure} #project-tomo
 :name: #fig-project-tomo
-Description of the figure.
 :::
 
 :::{figure} #project-compare_view
 :name: #fig-project-compare_view
-Description of the figure.
 :::
 
 :::{figure} #project-plywood
 :name: #fig-project-plywood
-Description of the figure.
 :::
 
 :::{figure} #project-tldraw
 :name: #fig-project-tldraw
-Description of the figure.
 :::
 
 
 
-## Content curation in myst
+## Content curation in MyST
+
+
+:::{note} Media example
+An example of MyST content with embedded content like images, dataframes and tweets from jupyter:
+https://octoframes.github.io/myst-online-media-testing/hello
+:::
 
 
 :::{figure} #myst1
 :name: #fig-myst1
-Description of the figure.
 :::
 
 :::{figure} #myst2
 :name: #fig-myst2
-Description of the figure.
 :::
+
+
+
+
+
 
 ## Content curation in Manim
 
 
 :::{figure} #manim-1
 :name: #fig-manim-1
-Description of the figure.
 :::
 
 :::{figure} #manim-2
 :name: #fig-manim-2
-Description of the figure.
 :::
+
+::::{tip} Screenshot of this thread.
+
+:::{figure} thum-manimtweet.png
+
+:::
+::::
 
 :::{figure} #manim-3
 :name: #fig-manim-3
-Description of the figure.
 :::
 
 :::{figure} #manim-4
 :name: #fig-manim-4
-Description of the figure.
 :::
+
+::::{tip} Tutorials at [https://flyingframes.readthedocs.io/en/latest](https://flyingframes.readthedocs.io/en/latest/ch3.html)
+
+:::{figure} flyingframes.png
+:::
+::::
+
+
+## Content curation in Napari
+
+
+
 
 
 ## Scientific publications
 
-* Human lung virtual histology by multi-scale x-ray phase-contrast computed tomography [](10.1088/1361-6560/acd48d)
-* napari: a multi-dimensional image viewer for Python [](10.5281/ZENODO.8115575)
+
+
+:::{note}   [](10.1088/1361-6560/acd48d)
+Human lung virtual histology by multi-scale x-ray phase-contrast computed tomography 
+:::
+
+:::{note} [](10.5281/ZENODO.8115575)
+napari: a multi-dimensional image viewer for Python 
+:::
+
+
 
 See my record at: https://orcid.org/0009-0007-3670-9969
 
