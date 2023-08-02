@@ -51,7 +51,7 @@ Here are 4 tweets from my recent project highlights.
 ## Content curation in MyST
 
 
-:::{note} Media example
+:::{note} MyST Media example
 An example of MyST content with embedded content like images, dataframes and tweets from jupyter:
 https://octoframes.github.io/myst-online-media-testing/hello
 :::
