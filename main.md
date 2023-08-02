@@ -52,7 +52,7 @@ Here are 4 tweets from my recent project highlights.
 
 
 :::{note} MyST Media example
-An example of MyST content with embedded content like images, dataframes and tweets from jupyter:
+An example of MyST page with embedded content like images, dataframes and tweets from jupyter:
 https://octoframes.github.io/myst-online-media-testing/hello
 :::
 
