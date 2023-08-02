@@ -1,7 +1,7 @@
 # Portfolio
 
 Welcome to my portfolio.
-Here you'll find my recent project highlights, as well as some of the content curation in context of Jupyter, MyST and Manim.
+Here you'll find my recent project highlights, as well as some of the content curation in context of Jupyter, MyST and Manim and Napari.
 
 ## Content curation in Jupyter
 
@@ -103,6 +103,13 @@ https://octoframes.github.io/myst-online-media-testing/hello
 ## Content curation in Napari
 
 
+:::{figure} #napari-1
+:name: #fig-napari-1
+:::
+
+:::{figure} #napari-2
+:name: #fig-napari-2
+:::
 
 
 
