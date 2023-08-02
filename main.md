@@ -7,6 +7,12 @@
 
 ## content curation in Jupyter
 
+You can find my writing sample at
+
+
+and here'r a conversation about 
+https://github.com/widgetti/ipyreact/pull/11
+
 ## Content curation in Manim
 
 

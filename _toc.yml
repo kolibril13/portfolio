@@ -3,4 +3,5 @@ format: jb-book
 root: index
 chapters:
   - file: main
+  - file: writing_sample
   - file: assets
