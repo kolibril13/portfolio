@@ -25,3 +25,13 @@ make a figure with a reference to an image
 :width: 200px
 An interacitve comparison of  Cartesian and polar coordinates.
 :::
+
+
+## Scientific publications
+
+* Human lung virtual histology by multi-scale x-ray phase-contrast computed tomography [](10.1088/1361-6560/acd48d)
+* napari: a multi-dimensional image viewer for Python [](10.5281/ZENODO.8115575)
+
+See my record at: https://orcid.org/0009-0007-3670-9969
+
+
