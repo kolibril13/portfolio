@@ -4,14 +4,18 @@
 
 ## Content curation in Jupyter
 
+I've curated a 3 days python training course, a writing sample can be found in the next chapter called
+[Writing Sample](./writing-sample)  
 
-[hi](./writing-sample)  
-[Writing sample](https://kolibril13.github.io/portfolio/writing-sample). 
+:::{tip} Screenshot preview from wirting sample.
+![Alt text](thumb_writing.png)
+:::
 
 
-Full Mito [course material](https://github.com/mito-ds/training-materials).
 
- ipyreact [tutorial](https://github.com/widgetti/ipyreact/blob/master/examples/full_tutorial.ipynb)   
+Additionally, the full [course material](https://github.com/mito-ds/training-materials) is also available.
+
+ Also, I've written this ipyreact [tutorial](https://github.com/widgetti/ipyreact/blob/master/examples/full_tutorial.ipynb).
 
 
 
