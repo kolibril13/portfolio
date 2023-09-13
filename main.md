@@ -5,6 +5,34 @@ Here, I will showcase my recent projects and content curation work for Jupyter, 
 
 
 
+## My Projects
+
+Here are 5 tweets from my recent project highlights.
+
+
+:::{figure} #tweet-blender
+:name: #fig-tweet-blender
+:::
+
+:::{figure} #project-tldraw
+:name: #fig-project-tldraw
+:::
+
+:::{figure} #project-compare_view
+:name: #fig-project-compare_view
+:::
+
+:::{figure} #project-plywood
+:name: #fig-project-plywood
+:::
+
+:::{figure} #project-tomo
+:name: #fig-project-tomo
+:::
+
+
+
+
 
 ## Content curation in Jupyter
 
@@ -23,31 +51,6 @@ A writing sample can be found in the next chapter called
 Additionally, the full [course material](https://github.com/mito-ds/training-materials) is also available online.
 
 I've also authored this [ipyreact tutorial](https://github.com/widgetti/ipyreact/blob/master/examples/full_tutorial.ipynb).
-
-
-
-
-
-## My Projects
-
-Here are 4 tweets from my recent project highlights.
-
-
-:::{figure} #project-tomo
-:name: #fig-project-tomo
-:::
-
-:::{figure} #project-compare_view
-:name: #fig-project-compare_view
-:::
-
-:::{figure} #project-plywood
-:name: #fig-project-plywood
-:::
-
-:::{figure} #project-tldraw
-:name: #fig-project-tldraw
-:::
 
 
 
