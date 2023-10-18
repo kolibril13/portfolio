@@ -31,6 +31,14 @@ Here are 5 tweets from my recent project highlights.
 :::
 
 
+:::{figure} #project-tomo2
+:name: #fig-project-tomo2
+:::
+
+:::{figure} #project-tomo3
+:name: #fig-project-tomo3
+:::
+
 
 
 
