@@ -33,7 +33,9 @@ Here, I will showcase my recent project highlights.
 :::
 
 
-
+:::{figure} #project-tomo
+:name: #fig-project-tomo
+:::
 
 
 
